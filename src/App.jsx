@@ -24,7 +24,7 @@ function App() {
 
         <PhotoGallery />
 
-        <Countdown targetDate="2026-06-15" />
+        <Countdown targetDate="2006-07-29" />
       </div>
 
       <div className="footer">
